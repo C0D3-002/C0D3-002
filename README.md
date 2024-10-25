@@ -3,8 +3,8 @@
 I am currently studying Cyber Security at a german university.
 
 ## Objectives
--To become more proficient in Cyber Security
--To get an internship or Job in Cyber Security
+-To become more proficient in Cyber Security. <br />
+-To get an internship or Job in Cyber Security.
 
 ## Skills
 English

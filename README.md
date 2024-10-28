@@ -6,17 +6,20 @@ I am currently studying Cyber Security at a german university.
 -To become more proficient in Cyber Security. <br />
 -To get an internship or Job in Cyber Security.
 
-### Skills
-English
+### Profficient Languages
+-English
 
-### Current Skills I'm working on:
--Using Kali Linux and it's tools. 
+### Current Tools I'm Learning:
+-Nmap      <br />
+-Wireshark      <br />
+-Nessus      <br />
+-SET: Social Engineering Toolkit
 
+### Projects I'm working on
+-Building a SIEM      <br />
+-Building a Honeypot
 
-### Tools
-
-
-
+### Completed Projects
 
 
 

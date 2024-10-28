@@ -9,7 +9,9 @@ I am currently studying Cyber Security at a german university.
 ### Profficient Languages
 -English
 
-### Current Tools I'm Learning:
+### Profficient Tools
+
+### Current Tools I'm Learning
 -Nmap      <br />
 -Wireshark      <br />
 -Nessus      <br />

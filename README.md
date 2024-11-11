@@ -9,6 +9,9 @@ I am currently studying Cyber Security at a german university.
 ### Profficient Languages
 -English
 
+### Skills
+-Kali Linux Basics
+
 ### Profficient Tools
 
 ### Current Tools I'm Learning

@@ -7,8 +7,8 @@ I am currently studying Cyber Security at a german university.
 -To get an internship or Job in Cyber Security.
 
 ### Languages
--English <br \>
--Python basics <br \>
+-English <br />
+-Python basics <br />
 -Java basics
 
 ### Skills

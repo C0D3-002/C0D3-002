@@ -21,7 +21,7 @@ I am currently studying Cyber Security at a german university.
 -SET: Social Engineering Toolkit
 
 ### Projects I'm working on
--Building a SIEM      <br />
+-Building a Home Lab <br />
 -Building a Honeypot
 
 ### Completed Projects

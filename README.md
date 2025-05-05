@@ -18,7 +18,6 @@ I am currently studying Cyber Security at a german university.
 -Nmap      <br />
 -Wireshark      <br />
 -Nessus      <br />
--SET: Social Engineering Toolkit
 
 ### Completed Projects
 -Built a Home Lab
